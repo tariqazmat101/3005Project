@@ -5,7 +5,7 @@ A simple CLI-based fitness gym management system built with **Node.js**, **Postg
 
 
 Please see ORM implementation PDF. 
-Please see ER-Modelling PDF. 
+Please see PNG for the ER-model. 
 
 #How to RUn 
 npm install

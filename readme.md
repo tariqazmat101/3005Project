@@ -13,4 +13,4 @@ npx prisma migrate dev
 npx prisma studio   # optional GUI
 node cli.js
 
-Video is located here: --> 
+Video is located here: --> https://www.youtube.com/watch?v=iEi5clRfhKI&feature=youtu.be
